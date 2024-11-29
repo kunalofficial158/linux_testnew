@@ -1,0 +1,4 @@
+09:10:20 User Chinnakkani booked a ticket from Bangalore to Sivakasi
+09:20:30 User Ganesh booked a ticket from Bangalore to Madurai
+09:30:20 User Chinnakkani cancelled a ticket from Bangalore to Sivakasi
+09:32:22 User Chinnakkani booked a ticket from Bangalore to Sivakasi
